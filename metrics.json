@@ -1,0 +1,20 @@
+{
+  "model": "Week 8 evaluated RandomForestClassifier",
+  "pr_auc": 0.8927818223882641,
+  "roc_auc": 0.8999999999999999,
+  "positive_prevalence": 0.514018691588785,
+  "test_positive": 55,
+  "test_negative": 52,
+  "train_n": 427,
+  "test_n": 107,
+  "threshold": 0.3,
+  "seed": 0,
+  "parameters": {
+    "n_estimators": 300,
+    "max_depth": null,
+    "random_state": 0,
+    "n_jobs": -1
+  },
+  "source": "notebooks/JiheunKim_mlgenomics_week09_lab.ipynb: original Week 8 evaluated clf, exported in final cell",
+  "new_tuning": false
+}
